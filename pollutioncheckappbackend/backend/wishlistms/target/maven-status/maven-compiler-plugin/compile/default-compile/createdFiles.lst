@@ -1,0 +1,17 @@
+com\stackroute\wishlistms\dto\WishListCityDeatils.class
+com\stackroute\wishlistms\entity\Location.class
+com\stackroute\wishlistms\entity\Pollution.class
+com\stackroute\wishlistms\exceptions\CityInfoNotFoundException.class
+com\stackroute\wishlistms\CustomMongoConfig.class
+com\stackroute\wishlistms\controller\WishListRestApi.class
+com\stackroute\wishlistms\util\WishlistCityUtil.class
+com\stackroute\wishlistms\repository\ICityInfoRepository.class
+com\stackroute\wishlistms\exceptions\CityInfoAlreadyExistsException.class
+com\stackroute\wishlistms\entity\Weather.class
+com\stackroute\wishlistms\DemoApplication.class
+com\stackroute\wishlistms\controller\CentralizedExceptionHandler.class
+com\stackroute\wishlistms\entity\CityInfo.class
+com\stackroute\wishlistms\service\IWishListService.class
+com\stackroute\wishlistms\dto\RemoveFromWatchList.class
+com\stackroute\wishlistms\dto\AddToWatchList.class
+com\stackroute\wishlistms\service\WishListServiceImpl.class
